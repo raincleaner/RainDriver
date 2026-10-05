@@ -1,6 +1,6 @@
 # Rain Driver
 
-Windows driver backup, recovery and official-source updates — public beta.
+Windows driver backup, recovery and official-source updates.
 
 **Website and downloads:** https://raincleaner.eu/driver
 
@@ -11,6 +11,6 @@ Windows driver backup, recovery and official-source updates — public beta.
 - **Official sources only** — Windows Update, Dell / HP / Lenovo catalogs, NVIDIA's own service, and the makers' official pages for AMD, Intel, Realtek, ASUS, MSI, Gigabyte, ASRock and others. Never third-party driver-pack sites.
 - Windows 7 SP1 to 11, 32-bit and 64-bit (separate legacy edition for Windows 7 / 8.1). Free version included; optional Pro and Rain AI add-on.
 
-**Status:** public beta 0.1.0, builds are not yet code-signed (Windows may show an unknown-publisher warning). Verify downloads with the SHA-256 values on https://raincleaner.eu/driver and https://raincleaner.eu/trust.
+**Status:** official release 1.0, builds are not yet code-signed (Windows may show an unknown-publisher warning). Verify downloads with the SHA-256 values on https://raincleaner.eu/driver and https://raincleaner.eu/trust.
 
 Guides: https://raincleaner.eu/guides · Support: support@raincleaner.eu · Part of the Rain family (Rain Cleaner, RainServer).
